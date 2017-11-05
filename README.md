@@ -1,1 +1,3 @@
-# node-chat-app
+# node-chat-
+
+sample chat app with websockets
